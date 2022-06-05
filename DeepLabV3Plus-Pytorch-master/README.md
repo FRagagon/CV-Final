@@ -8,6 +8,8 @@ DeepLabv3, DeepLabv3+ with pretrained models for Pascal VOC & Cityscapes.
 The pre-trained model with mobile net can be obtained from google drive.
 Just put it under this directory.
 
+The file model.py is used to generate picture folder from video and generate video from picture folder.
+
 
 ### 1. Load the pretrained model:
 ```python
